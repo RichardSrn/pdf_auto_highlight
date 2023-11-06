@@ -1,6 +1,0 @@
-Automacally highlights most represented words in pdf files.
-
-Add as many pdf files as desired in './input/' then run the script `python3 highlight_pdf.py` and find highlighted files in './output/'.
-
-Use `-o` to control threshold occurrence, and `-p` to control maximum number of words to keep.
-Use `python3 highlight_pdf.py --help` to show full help.
