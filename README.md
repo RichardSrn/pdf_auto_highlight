@@ -15,4 +15,10 @@ Script parameters are:
 Use `python3 highlight_pdf.py --help` to show full help.
 
 
-(pdf source : https://dagrs.berkeley.edu/sites/default/files/2020-01/sample.pdf)
+_pdf source : https://dagrs.berkeley.edu/sites/default/files/2020-01/sample.pdf_
+
+# example
+
+![screenshot](./img/screenshot.png)
+
+
