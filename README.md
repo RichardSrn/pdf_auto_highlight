@@ -11,6 +11,7 @@ Script parameters are:
 - `-b` if True, export to same folder as input, and replace original (create .bkp file)
 - `-r` if True, restore original file from .bkp file and delete .bkp file
 - `-a` if True, remove all annotations from the pdf
+- `-n` if True, do not save the pdf (only used if highlighting, mostly for debugging)
 
 Use `python3 highlight_pdf.py --help` to show full help.
 
