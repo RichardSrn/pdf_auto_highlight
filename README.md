@@ -13,3 +13,6 @@ Script parameters are:
 - `-a` if True, remove all annotations from the pdf
 
 Use `python3 highlight_pdf.py --help` to show full help.
+
+
+(pdf source : https://dagrs.berkeley.edu/sites/default/files/2020-01/sample.pdf)
